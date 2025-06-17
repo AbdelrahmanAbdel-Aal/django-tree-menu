@@ -21,8 +21,9 @@ This is a reusable Django app that renders a dynamic, tree-structured menu on an
 ### 1. Clone the project
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-cd YOUR_REPO_NAME
+git clone https://github.com/AbdelrahmanAbdel-Aal/django-tree-menu.git
+cd django-tree-menu
+
 
 2. Create and activate virtual environment
 python -m venv venv
